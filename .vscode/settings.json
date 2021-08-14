@@ -1,0 +1,18 @@
+{
+	"files.associations": {
+		"stdlib.h": "c",
+		"*.tcc": "c",
+		"ctime": "c",
+		"iomanip": "c",
+		"limits": "c",
+		"numeric": "c",
+		"ranges": "c",
+		"streambuf": "c",
+		"tuple": "c",
+		"type_traits": "c",
+		"utility": "c",
+		"atomic": "c",
+		"cstdint": "c",
+		"random": "c"
+	}
+}
