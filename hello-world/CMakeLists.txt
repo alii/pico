@@ -10,6 +10,7 @@ pico_sdk_init()
 
 add_executable(hello_world
   main.c
+  delay.c
 )
 
 pico_enable_stdio_usb(hello_world 1)
